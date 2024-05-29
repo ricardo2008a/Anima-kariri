@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.inicio{
+    background-color: aqua;
+    text-align: center;
+   padding: 20px;
+}
+.menu{
+  justify-content: space-around;
+
+}
+.meio{
+    border-radius: 10px;
+    display: flex;
+    margin:10px 90px;
+    justify-content: center;
+   
+}
+.meio img{
+    margin: 0 90px;
+}
+nav{
+    width: 100vw;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 20px;
+}
